@@ -13,3 +13,6 @@
     * [Development Journal](/Prototype/Developer%20Manual.md)
 
 * [Final Deliverables](/Final%20Deliverables/)
+    * [User Manual: please find the "Final Updates" Section ](/Prototype/User%20Manual.md) 
+    * [Development Journal: please find the "Final Updates" Section](/Prototype/Developer%20Manual.md)
+
