@@ -11,3 +11,5 @@
     * [Getting Started](/Prototype/Getting%20Started.md)
     * [User Manual](/Prototype/User%20Manual.md)
     * [Development Journal](/Prototype/Developer%20Manual.md)
+
+* [Final Deliverables](/Final%20Deliverables/)
